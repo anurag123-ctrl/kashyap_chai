@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/kashyap_chai/static/css/main.f1e381bb.chunk.css",
+    "main.js": "/kashyap_chai/static/js/main.2eb987d8.chunk.js",
+    "main.js.map": "/kashyap_chai/static/js/main.2eb987d8.chunk.js.map",
+    "runtime-main.js": "/kashyap_chai/static/js/runtime-main.2fe174df.js",
+    "runtime-main.js.map": "/kashyap_chai/static/js/runtime-main.2fe174df.js.map",
+    "static/js/2.bc256e4b.chunk.js": "/kashyap_chai/static/js/2.bc256e4b.chunk.js",
+    "static/js/2.bc256e4b.chunk.js.map": "/kashyap_chai/static/js/2.bc256e4b.chunk.js.map",
+    "static/js/3.23c3af5e.chunk.js": "/kashyap_chai/static/js/3.23c3af5e.chunk.js",
+    "static/js/3.23c3af5e.chunk.js.map": "/kashyap_chai/static/js/3.23c3af5e.chunk.js.map",
+    "index.html": "/kashyap_chai/index.html",
+    "static/css/main.f1e381bb.chunk.css.map": "/kashyap_chai/static/css/main.f1e381bb.chunk.css.map",
+    "static/js/2.bc256e4b.chunk.js.LICENSE.txt": "/kashyap_chai/static/js/2.bc256e4b.chunk.js.LICENSE.txt",
+    "static/media/about-img.3f087d85.jpeg": "/kashyap_chai/static/media/about-img.3f087d85.jpeg",
+    "static/media/blog-1.45ad59a9.jpeg": "/kashyap_chai/static/media/blog-1.45ad59a9.jpeg",
+    "static/media/blog-2.8a8b9604.jpeg": "/kashyap_chai/static/media/blog-2.8a8b9604.jpeg",
+    "static/media/blog-3.5209cbe8.jpeg": "/kashyap_chai/static/media/blog-3.5209cbe8.jpeg",
+    "static/media/style.css": "/kashyap_chai/static/media/home-img.adb7caef.bin",
+    "static/media/logo.af6eec9a.png": "/kashyap_chai/static/media/logo.af6eec9a.png",
+    "static/media/me.eb8c0a06.jpg": "/kashyap_chai/static/media/me.eb8c0a06.jpg",
+    "static/media/menu-1.97653553.png": "/kashyap_chai/static/media/menu-1.97653553.png",
+    "static/media/menu-2.acf8446b.png": "/kashyap_chai/static/media/menu-2.acf8446b.png",
+    "static/media/menu-3.a671af0b.png": "/kashyap_chai/static/media/menu-3.a671af0b.png",
+    "static/media/menu-4.e11a505d.png": "/kashyap_chai/static/media/menu-4.e11a505d.png",
+    "static/media/menu-5.cab89932.png": "/kashyap_chai/static/media/menu-5.cab89932.png",
+    "static/media/menu-6.1e627e81.png": "/kashyap_chai/static/media/menu-6.1e627e81.png",
+    "static/media/pic-1.f71601bc.png": "/kashyap_chai/static/media/pic-1.f71601bc.png",
+    "static/media/pic-2.f992748e.jpg": "/kashyap_chai/static/media/pic-2.f992748e.jpg",
+    "static/media/product-1.c7b92799.png": "/kashyap_chai/static/media/product-1.c7b92799.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fe174df.js",
+    "static/js/2.bc256e4b.chunk.js",
+    "static/css/main.f1e381bb.chunk.css",
+    "static/js/main.2eb987d8.chunk.js"
+  ]
+}
